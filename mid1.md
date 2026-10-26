@@ -1,6 +1,6 @@
 #1번 답안
 ```
-<img width="893" height="691" alt="image" src="https://github.com/user-attachments/assets/922505d0-0223-4b52-a802-fcf6e3c68361" />
+
 #include "raylib.h"
 #include <stdbool.h>
 #include <stdio.h>
