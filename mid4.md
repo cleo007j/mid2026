@@ -1,5 +1,5 @@
 <img width="1152" height="272" alt="image" src="https://github.com/user-attachments/assets/8cbd9be7-dcc4-4f2a-8a36-ffe18607f6bf" />
-#4번문제
+# 4번문제
 
 
 
