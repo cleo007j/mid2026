@@ -1,3 +1,5 @@
+<img width="1761" height="940" alt="image" src="https://github.com/user-attachments/assets/5f172099-783f-45f1-ba5d-90c122caf4ab" />
+
 #1번 답안
 ```
 
