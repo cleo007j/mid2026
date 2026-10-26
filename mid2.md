@@ -1,6 +1,10 @@
 <img width="1127" height="333" alt="image" src="https://github.com/user-attachments/assets/21ed85b9-c83c-4fd4-bb0d-4aee2efd5a22" />
+
+
 #2번문제
 ```
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "sqlite3.h"
